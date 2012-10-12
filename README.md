@@ -12,7 +12,7 @@ Since version 6.2, Notepad++ has improved support for User Defined Languages. I 
 4. Click the Import&hellip; button and choose the `userDefineLang_Not_eXactly_C.xml` file from inside the zip you downloaded earlier
 5. Open a `.nxc` file, or select Not eXactly C from the Language menu to enable syntax highlighting
 
-# External Links
+## External Links
 
-* [Writing NXC code in Notepad++ « Spillerrec's Blog](http://spillerrec.wordpress.com/2011/03/05/writing-nxc-code-in-notepad/)
-* [NXC Syntax Highlighting in Notepad++ « Muntoo's Blog](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/)
+* [Writing NXC code in Notepad++ ï¿½ Spillerrec's Blog](http://spillerrec.wordpress.com/2011/03/05/writing-nxc-code-in-notepad/)
+* [NXC Syntax Highlighting in Notepad++ ï¿½ Muntoo's Blog](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/)
