@@ -14,5 +14,5 @@ Since version 6.2, Notepad++ has improved support for User Defined Languages. I 
 
 ## External Links
 
-* [Writing NXC code in Notepad++ � Spillerrec's Blog](http://spillerrec.wordpress.com/2011/03/05/writing-nxc-code-in-notepad/)
-* [NXC Syntax Highlighting in Notepad++ � Muntoo's Blog](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/)
+* [Writing NXC code in Notepad++ > Spillerrec's Blog](http://spillerrec.wordpress.com/2011/03/05/writing-nxc-code-in-notepad/)
+* [NXC Syntax Highlighting in Notepad++ > Muntoo's Blog](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/)
