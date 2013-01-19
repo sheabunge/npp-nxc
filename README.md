@@ -1,6 +1,6 @@
 # Writing Not eXactly C code in Notepad++
 
-[Muntoo](https://github.com/muntoo) has written [a great post](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/) about syntax highlighting NXC code in Notepad++. While his method works rather well, it involves sacrificing the C language, and adding NXC-specific keywords. This method used to work best due to
+[@muntoo](https://github.com/muntoo) has written [a great post](http://muntoo.wordpress.com/2011/07/13/nxc-syntax-highlighting-in-notepad/) about syntax highlighting NXC code in Notepad++. While his method works rather well, it involves sacrificing the C language, and adding NXC-specific keywords. This method used to work best due to the lack of support for user-defined languages in older versions of Notepad++.
 
 Since version 6.2, Notepad++ has improved support for User Defined Languages. I have utilized this support to create a special user defined language file, which you can import into Notepad++ in order to add Not eXactly C as one of the avalible languages.
 
