@@ -6,9 +6,9 @@ Since version 6.2, Notepad++ has improved support for User Defined Languages. I 
 
 ## Use
 
-1. Download a [zip of the master branch](https://github.com/bungeshea/npp-nxc/zipball/master) to your computer
+1. Download a [zip of the master branch](https://github.com/bungeshea/npp-nxc/archive/master.zip) to your computer
 2. Launch Notepad++
-3. Select Language > Define your language&hellip;
+3. Select *Language > Define your language&hellip;*
 4. Click the Import&hellip; button and choose the `userDefineLang_Not_eXactly_C.xml` file from inside the zip you downloaded earlier
 5. Open a `.nxc` file, or select Not eXactly C from the Language menu to enable syntax highlighting
 
